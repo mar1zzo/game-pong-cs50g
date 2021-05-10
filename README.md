@@ -17,8 +17,8 @@
  <a href="#-Descrição-do-projeto">Sobre</a> •
  <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-Layout">Layout</a> • 
- <a href="#-Como-executar-o-jogo">Como executar</a> • 
  <a href="#-Tecnologias">Tecnologias</a> • 
+ <a href="#-Como-executar-o-jogo">Como executar</a> • 
  <a href="#-Autora">Autora</a> • 
  <a href="#-Licença-bookmark">Licença</a>
 </p>
@@ -31,7 +31,7 @@
 O CS50 Games é um curso gratuíto online estruturado em 12 semanas oferecido pela Universidade de Harvard com muito conteúdo prático e desafios que levam o participante a aprender gradualmete o desenvolvimento de jogos. 
 
 
-## 🗃️ Funcionalidades 
+## 🗃️ Funcionalidades
 
 ✔️ &nbsp; Raquete controlada por IA
 
@@ -44,23 +44,35 @@ O CS50 Games é um curso gratuíto online estruturado em 12 semanas oferecido pe
 
 ## 🎨 Layout 
 
-### Abertura e Menu com novos modos de jogo
+### 🏓 &nbsp; Abertura e Menu com novos modos de jogo
 <img src="https://user-images.githubusercontent.com/69127182/117729053-ab420580-b1c0-11eb-8685-ad3f7443eaf6.png"/>
 
-### Navegabilidade do Menu
+### 🏓 &nbsp; Navegabilidade do Menu
 <img src="https://user-images.githubusercontent.com/69127182/117734401-c2d1bc00-b1c9-11eb-8335-68cf776fdd63.png"/>
 
-### Executável do jogo
+### 🏓 &nbsp; Executável do jogo
 <img src="https://user-images.githubusercontent.com/69127182/117734497-f9a7d200-b1c9-11eb-9f96-71902a02be55.png"/>
+
+Ajudinha (+ créditos) para criar executáveis 👇
+-   **[Love2D: Game Distribution ](https://love2d.org/wiki/Game_Distribution)**
+-   **[Youtube: qubodupDev](https://www.youtube.com/watch?v=SU2RpGdezP4)**
+
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na atualização do jogo:
+
+-   **[Love2D](https://love2d.org/)**
+-   **[VSCode](https://code.visualstudio.com/download)**
 
 
 ## 🎥 Como executar o jogo
 
 ### Instale:
-1. Löve2D (https://love2d.org/)
+1. Löve2D
 2. Editor de texto ou uma IDE (ambiente de desenvolvimento integrado), usei o VSCode!
 
-#### 🧭 Rodando o projeto
+#### 🧭 &nbsp; Rodando o projeto
 
 ```bash
 
@@ -86,13 +98,6 @@ $ cd game-pong-cs50g
 # O jogo será executado
 
 ```
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na atualização do jogo:
-
--   **[Love2D](https://love2d.org/)**
--   **[VSCode](https://code.visualstudio.com/download)**
 
 
 ## 🦉 Autora
