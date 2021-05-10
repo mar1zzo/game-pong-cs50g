@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/static/v1?label=Lua&message=language&color=blue&style=flat&logo=lua"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=flat"/>
   <img src="http://img.shields.io/static/v1?label=Testes&message=100%&color=GREEN&style=flat"/>
-  <img src="http://img.shields.io/static/v1?label=Status&message=CONCLUIDO&color=GREEN&style=flat"/>
+  <img src="http://img.shields.io/static/v1?label=Status&message=concluido&color=GREEN&style=flat"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69127182/117732031-8308d580-b1c5-11eb-846f-6042abc0151d.png"/>
@@ -17,7 +17,7 @@
  <a href="#-Descrição-do-projeto">Sobre</a> •
  <a href="#-Funcionalidades-file_folder">Funcionalidades</a> •
  <a href="#-Layout-computer">Layout</a> • 
- <a href="#-Como-rodar-a-aplicação-movie_camera">Como executar</a> • 
+ <a href="#-Como-executar-o-jogo">Como executar</a> • 
  <a href="#-Tecnologias">Tecnologias</a> • 
  <a href="#-Autora">Autora</a> • 
  <a href="#-Licença-bookmark">Licença</a>
@@ -54,10 +54,10 @@ O CS50 Games é um curso gratuíto online estruturado em 12 semanas oferecido pe
 <img src="https://user-images.githubusercontent.com/69127182/117734497-f9a7d200-b1c9-11eb-9f96-71902a02be55.png"/>
 
 
-## 🎥 Como rodar a aplicação
+## 🎥 Como executar o jogo
 
 ### Instale:
-1. Love (https://love2d.org/)
+1. Löve2D (https://love2d.org/)
 2. Editor de texto ou uma IDE (ambiente de desenvolvimento integrado), usei o VSCode!
 
 #### 🧭 Rodando o projeto
@@ -87,10 +87,19 @@ $ cd game-pong-cs50g
 
 ```
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na atualização do jogo:
+
+-   **[Love2D](https://love2d.org/)**
+-   **[VSCode](https://code.visualstudio.com/download)**
+
+
 ## 🦉 Autora
 
 | [<img src="https://avatars3.githubusercontent.com/u/69127182?s=460&u=b6023a31c4fcfe7ddaa4683de3e99634646608be&v=4" width=115><br><sub>Mari Rizzo</sub>](https://github.com/mar1zzo) 
 | :---: | 
+
 
 ## 🥇 Licença :bookmark:
 
