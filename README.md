@@ -27,7 +27,7 @@
 
 🏓 &nbsp; Implementar uma raquete controlada por IA (tanto da esquerda quanto da direita) de forma que ela tente desviar a bola o tempo todo.
 
-🏓 &nbsp; Projeto desenvolvido no curso **CS50 Games** oferecida pela [Harvard University](https://cs50.harvard.edu/games/2018/weeks/0/).
+🏓 &nbsp; Projeto desenvolvido no curso **CS50 Games** oferecido por [Harvard University](https://cs50.harvard.edu/games/2018/weeks/0/).
 O CS50 Games é um curso gratuíto online estruturado em 12 semanas oferecido pela Universidade de Harvard com muito conteúdo prático e desafios que levam o participante a aprender gradualmete o desenvolvimento de jogos. 
 
 
