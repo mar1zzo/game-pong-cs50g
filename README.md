@@ -15,8 +15,8 @@
 
 <p align="center">
  <a href="#-Descrição-do-projeto">Sobre</a> •
- <a href="#-Funcionalidades-file_folder">Funcionalidades</a> •
- <a href="#-Layout-computer">Layout</a> • 
+ <a href="#-Funcionalidades">Funcionalidades</a> •
+ <a href="#-Layout">Layout</a> • 
  <a href="#-Como-executar-o-jogo">Como executar</a> • 
  <a href="#-Tecnologias">Tecnologias</a> • 
  <a href="#-Autora">Autora</a> • 
