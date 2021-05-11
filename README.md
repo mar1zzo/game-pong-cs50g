@@ -46,9 +46,10 @@ O CS50 Games é um curso gratuíto online estruturado em 12 semanas oferecido pe
 ## 🎨 Layout 
 
 ### 🏓 &nbsp; Abertura e Menu com novos modos de jogo
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69127182/117729053-ab420580-b1c0-11eb-8685-ad3f7443eaf6.png" width="450" height="290"/>
-  <img src="https://user-images.githubusercontent.com/69127182/117734401-c2d1bc00-b1c9-11eb-8335-68cf776fdd63.png" width="450" height="290"/>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/69127182/117729053-ab420580-b1c0-11eb-8685-ad3f7443eaf6.png" width="400" height="260"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/69127182/117734401-c2d1bc00-b1c9-11eb-8335-68cf776fdd63.png" width="400" height="260"/>
 </p>
 
 ### 🏓 &nbsp; Executável do jogo
