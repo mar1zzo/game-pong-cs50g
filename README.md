@@ -20,7 +20,7 @@
  <a href="#-Tecnologias">Tecnologias</a> • 
  <a href="#-Como-executar-o-jogo">Como executar</a> • 
  <a href="#-Autora">Autora</a> • 
- <a href="#-Licença-bookmark">Licença</a>
+ <a href="#-Licença">Licença</a>
 </p>
 
 
@@ -107,7 +107,7 @@ $ cd game-pong-cs50g
 | :---: | 
 
 
-## 🥇 Licença :bookmark:
+## 🔖 Licença
 
 The [MIT License]() (MIT)
 
