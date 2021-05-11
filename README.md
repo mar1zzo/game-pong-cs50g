@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/static/v1?label=&message=language&color=blue&style=flat&logo=c"/>
   <img src="https://img.shields.io/static/v1?label=Lua&message=language&color=blue&style=flat&logo=lua"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=flat"/>
-  <img src="http://img.shields.io/static/v1?label=Testes&message=100%&color=GREEN&style=flat"/>
-  <img src="http://img.shields.io/static/v1?label=Status&message=concluido&color=GREEN&style=flat"/>
+  <img src="http://img.shields.io/static/v1?label=Testes&message=100%&color=green&style=flat"/>
+  <img src="http://img.shields.io/static/v1?label=Status&message=concluido&color=green&style=flat"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/69127182/117732031-8308d580-b1c5-11eb-846f-6042abc0151d.png"/>
@@ -22,6 +22,7 @@
  <a href="#-Autora">Autora</a> • 
  <a href="#-Licença-bookmark">Licença</a>
 </p>
+
 
 ## 📑 Descrição do projeto 
 
